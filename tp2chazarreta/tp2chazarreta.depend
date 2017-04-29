@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493414995 source:c:\users\w77\desktop\tp2chazarreta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funcionestp2.h"
+
+1493351365 c:\users\w77\desktop\tp2chazarreta\funciones.h
+
+1493415064 source:c:\users\w77\desktop\tp2chazarreta\funcionestp2.c
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"funcionestp2.h"
+
+1493414069 c:\users\w77\desktop\tp2chazarreta\funcionestp2.h
+
