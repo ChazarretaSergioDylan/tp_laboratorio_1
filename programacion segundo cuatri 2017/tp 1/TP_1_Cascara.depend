@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1491592894 source:c:\users\w77\desktop\tp 1\main.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+
+1491594091 c:\users\w77\desktop\tp 1\funciones.h
+
+1491573206 source:c:\users\w77\desktop\tp 1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1491573206 source:c:\users\w77\desktop\proyecto\tp_laboratorio_1\tp 1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1491594091 c:\users\w77\desktop\proyecto\tp_laboratorio_1\tp 1\funciones.h
+
+1491592894 source:c:\users\w77\desktop\proyecto\tp_laboratorio_1\tp 1\main.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+
+1503945325 source:c:\users\w77\desktop\archivos de programacion\1 cuatrimestre 2017\tp 1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1503945324 c:\users\w77\desktop\archivos de programacion\1 cuatrimestre 2017\tp 1\funciones.h
+
+1503945325 source:c:\users\w77\desktop\archivos de programacion\1 cuatrimestre 2017\tp 1\main.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+
+1503945326 source:d:\tp 1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1503945326 d:\tp 1\funciones.h
+
+1503945326 source:d:\tp 1\main.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+
+1504904772 source:d:\programacion segundo cuatri 2017\tp 1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1504903292 d:\programacion segundo cuatri 2017\tp 1\funciones.h
+
+1504905032 source:d:\programacion segundo cuatri 2017\tp 1\main.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
