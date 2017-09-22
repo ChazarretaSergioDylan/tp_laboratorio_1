@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1505566755 source:c:\users\alumno\desktop\tp2 segundo cuatri chazarreta sergio\funciones.c
+
+1505576230 source:c:\users\alumno\desktop\tp2 segundo cuatri chazarreta sergio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1506112687 source:c:\users\w77\downloads\tp 2 segundo cuat\ingresos-master\tp2 segundo cuatri chazarreta sergio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1506111605 source:c:\users\w77\downloads\tp 2 segundo cuat\ingresos-master\tp2 segundo cuatri chazarreta sergio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	<ctype.h>
+
+1506113741 c:\users\w77\downloads\tp 2 segundo cuat\ingresos-master\tp2 segundo cuatri chazarreta sergio\funciones.h
+
