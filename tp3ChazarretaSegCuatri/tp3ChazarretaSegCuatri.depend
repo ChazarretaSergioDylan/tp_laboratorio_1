@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508813897 source:c:\users\w77\desktop\tp3chazarretasegcuatri\funcionestp3.c
+	"funcionestp3.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508813698 c:\users\w77\desktop\tp3chazarretasegcuatri\funcionestp3.h
+
+1508813234 source:c:\users\w77\desktop\tp3chazarretasegcuatri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcionestp3.h"
+
